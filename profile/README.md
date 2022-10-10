@@ -10,7 +10,7 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
-MSMNL 은 **L**et’s **m**ake something and **m**ove on to the **n**ext **l**evel 의 약자로 사이드 프로젝트 github 조직입니다.
+MSMNL 은 Let’s **m**ake **s**omething and **m**ove on to the **n**ext **l**evel 의 약자로 사이드 프로젝트 github 조직입니다.
 
 사이드 프로젝트는 private repository 로 되어 있습니다.
 
